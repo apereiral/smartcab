@@ -1,4 +1,4 @@
-# TLDR: If you want to read the project's final report click on: report.html
+# TLDR: If you want to read the project's final report click on: report.html (or smartcab.ipynb if you don't want to run the .html file)
 # Bellow you can find the original README file from Udacity explaining some details about the project.
 
 ________________________________________________________________________________________________________________________________________
